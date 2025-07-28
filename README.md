@@ -29,3 +29,4 @@ pip install -e .
 ```
 
 thats all there is to bytetrack installation , ive attached a sample code above for testing purpose refer the code.
+check out DeepSort and well as yolo tracker 
