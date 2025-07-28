@@ -1,3 +1,5 @@
+# this is code which i used for testing my model for human detection 
+
 import cv2
 import numpy as np
 from ultralytics import YOLO
