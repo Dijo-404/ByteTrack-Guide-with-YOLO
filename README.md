@@ -30,6 +30,14 @@ pip install -e .
 
 thats all there is to bytetrack installation , ive attached a sample code above for testing purpose refer the code.
 check out DeepSort and well as yolo tracker 
+ ## for more info check out-
+ ```
+https://github.com/FoundationVision/ByteTrack
+https://github.com/nwojke/deep_sort
+https://github.com/abewley/sort
+https://docs.ultralytics.com/modes/track/#available-trackers
+https://roboflow.com/how-to-track/yolo-world
+```
 
 ```
 hope u have installed packages like ultralytics , numpy , cv2
