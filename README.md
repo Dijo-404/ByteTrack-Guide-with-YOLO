@@ -2,7 +2,7 @@
 This is a guide for using ByteTrack along with YOLO for object detection and tracking 
 
 
-## Step-1 : Clone repo -
+## Step-1 : Clone repo and execute the following commands-
 ```bash
 git clone https://github.com/ifzhang/ByteTrack.git
 cd ByteTrack
@@ -22,7 +22,7 @@ onnxruntime==1.16.3
 onnx-simplifier==0.4.33
 # ive already changed it soo dw this is just info on the changes ive done.
 ```
-## Step-2 : Install yolox
+## Step-2 : Install yolox (needed for running byte with yolo)-
 ```bash
 cd ~/ByteTrack/YOLOX
 pip install -e .
