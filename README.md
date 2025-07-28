@@ -3,14 +3,14 @@ This is a guide for using ByteTrack along with YOLO for object detection and tra
 
 
 ## Step-1 : Clone repo -
-'''
+' ' '
 git clone https://github.com/ifzhang/ByteTrack.git
 cd ByteTrack
 pip install -r requirements.txt
 pip install cython lap
 pip install cython_bbox
 
-'''
+' ' '
 if error occours with ONYX use the repo's requirements.txt ive modified the versions.
 '''
 # Old ONYX versions 
