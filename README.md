@@ -33,4 +33,4 @@ check out DeepSort and well as yolo tracker
 
 ```
 hope u have installed packages like ultralytics , numpy , cv2
-'''
+```
