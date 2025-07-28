@@ -10,7 +10,7 @@ pip install -r requirements.txt
 pip install cython lap
 pip install cython_bbox
 ```
-if error occours with ONYX use the repo's requirements.txt ive modified the versions.
+if error occours with ONYX use the this repo's requirements.txt ive modified the versions.
 ```
 # Old ONYX versions 
 onnx==1.8.1
